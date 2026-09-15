@@ -1,2 +1,2 @@
-# Projeto-Paradigmas-de-Linguagens-de-Programa-o
-O projeto tem o propósito de estender uma das Linguagens apresentadas em aula.
+# Programming Language Paradigms Project
+The goal of this project is to expand upon one of the programming language paradigms presented in class.
